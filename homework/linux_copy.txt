@@ -33,4 +33,3 @@ leszol@leszolPC:~/CS/ZadanieLinux$ cat selected.txt commands.txt
   201  grep -n /bin processes.txt >> selected.txt
   202  history | tail -n +192 > commands.txt  
   203  cat selected.txt commands.txt
-dupa
