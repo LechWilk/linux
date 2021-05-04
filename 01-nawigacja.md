@@ -25,3 +25,6 @@
 *  względne - względem aktualnego katalogu (`pwd`)
 
 dupa master
+Ala ma kota
+
+
